@@ -2,13 +2,13 @@
     padding:0;
     margin:0;
     box-sizing: border-box;
-    background-color:green;
+    background-color:coral;
 }
 .header{
     font-family: 'Kaushan Script', cursive;
     color:rgb(255,165,255);
    font-size: 50px;
-   background-color:green;
+   background-color:coral;
 
 }
 .navbar{
